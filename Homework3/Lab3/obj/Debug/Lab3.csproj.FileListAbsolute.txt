@@ -1,0 +1,8 @@
+C:\MVSProjects\DCHL\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\MVSProjects\DCHL\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\MVSProjects\DCHL\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\MVSProjects\DCHL\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\MVSProjects\DCHL\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\MVSProjects\DCHL\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\MVSProjects\DCHL\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\MVSProjects\DCHL\Lab3\Lab3\obj\Debug\Lab3.pdb
